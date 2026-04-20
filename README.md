@@ -47,7 +47,7 @@ HaiWang 采用控制平面与数据平面分离的设计：
 
 ```bash
 # 克隆仓库
-git clone https://github.com/your-username/HaiWang.git
+git clone https://github.com/HaiwangTT/HaiWang.git
 cd HaiWang
 
 # 编译项目
